@@ -1,0 +1,9 @@
+
+ora-api/node_modules
+
+ora-frontend/node_modules
+
+ora-sdk/node_modules
+
+certificate.pem
+client.json
